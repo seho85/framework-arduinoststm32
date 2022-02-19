@@ -37,7 +37,7 @@
   */
 #include "stm32_def.h"
 #include "hw_config.h"
-#include "usbd_if.h"
+//#include "usbd_if.h"
 #include "dwt.h"
 
 #ifdef __cplusplus
